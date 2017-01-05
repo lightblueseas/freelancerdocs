@@ -1,2 +1,2 @@
 # freelancerdocs
-Files for time report of freelance tasks.
+Files for time report and invoice of freelance tasks.
